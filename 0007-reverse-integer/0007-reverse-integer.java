@@ -1,30 +1,21 @@
 class Solution {
     public int reverse(int x) {
 
-        int a = x;
-        int ans = 0;
+        long ans = 0;
 
-        if (a < 0) {
-            a = -a;
+        while (x != 0) {
+
+            int digit = x % 10;
+
+            ans = ans * 10 + digit;
+
+            x = x / 10;
         }
 
-        while (a > 0) {
-
-            int tem = a % 10;
-
-            if (ans > (Integer.MAX_VALUE - tem) / 10) {
-                return 0;
-            }
-
-            ans = ans * 10 + tem;
-
-            a = a / 10;
+        if (ans > Integer.MAX_VALUE || ans < Integer.MIN_VALUE) {
+            return 0;
         }
 
-        if (x < 0) {
-            ans = -ans;
-        }
-
-        return ans;
+        return (int) ans;
     }
 }
