@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/mohdshaquibansari/leet-code/tree/master/0876-middle-of-the-linked-list) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohdshaquibansari/leet-code/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/mohdshaquibansari/leet-code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohdshaquibansari/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdshaquibansari/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
