@@ -12,7 +12,6 @@ class Solution {
 
             int tem = a % 10;
 
-            // Check overflow before multiplication
             if (ans > (Integer.MAX_VALUE - tem) / 10) {
                 return 0;
             }
