@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/mohdshaquibansari/leet-code/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/mohdshaquibansari/leet-code/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/mohdshaquibansari/leet-code/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdshaquibansari/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mohdshaquibansari/leet-code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohdshaquibansari/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdshaquibansari/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -367,8 +369,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
