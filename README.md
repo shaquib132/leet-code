@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shaquib132/leet-code/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/mohdshaquibansari/leet-code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3903-smallest-stable-index-i](https://github.com/shaquib132/leet-code/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mohdshaquibansari/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/shaquib132/leet-code/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/shaquib132/leet-code/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
