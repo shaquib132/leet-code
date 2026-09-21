@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohdshaquibansari/leet-code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shaquib132/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shaquib132/leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/mohdshaquibansari/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mohdshaquibansari/leet-code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohdshaquibansari/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdshaquibansari/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
