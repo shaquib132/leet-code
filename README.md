@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mohdshaquibansari/leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mohdshaquibansari/leet-code/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mohdshaquibansari/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shaquib132/leet-code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mohdshaquibansari/leet-code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/shaquib132/leet-code/tree/master/0400-nth-digit) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohdshaquibansari/leet-code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shaquib132/leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shaquib132/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Prefix Sum
@@ -412,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
