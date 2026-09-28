@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shaquib132/leet-code/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohdshaquibansari/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdshaquibansari/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -408,10 +409,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
