@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mohdshaquibansari/leet-code/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mohdshaquibansari/leet-code/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/shaquib132/leet-code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/mohdshaquibansari/leet-code/tree/master/0303-range-sum-query-immutable) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shaquib132/leet-code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shaquib132/leet-code/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/shaquib132/leet-code/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/shaquib132/leet-code/tree/master/0389-find-the-difference) |
