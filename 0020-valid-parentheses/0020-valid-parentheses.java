@@ -1,12 +1,8 @@
 class Solution {
     public boolean isValid(String s) {
-
         String a = "";
-
         for (int i = 0; i < s.length(); i++) {
-
             char ch = s.charAt(i);
-
             if (ch == '(' || ch == '{' || ch == '[') {
                 a = a + ch;
             } 
