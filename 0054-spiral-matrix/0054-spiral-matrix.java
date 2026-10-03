@@ -1,42 +1,40 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
-        ArrayList<Integer> ans = new ArrayList<>();
+        List<Integer> ans = new ArrayList<>();
 
-        int minr = 0;
-        int minc = 0;
-        int maxr = matrix.length - 1;
-        int maxc = matrix[0].length - 1;
+        int top = 0;
+        int bottom = matrix.length - 1;
+        int left = 0;
+        int right = matrix[0].length - 1;
 
-        while (minr <= maxr && minc <= maxc) {
+        while (top <= bottom && left <= right) {
 
-            // 1. Left to right (top row)
-            for (int j = minc; j <= maxc; j++) {
-                ans.add(matrix[minr][j]);
+            // Left → Right
+            for (int j = left; j <= right; j++) {
+                ans.add(matrix[top][j]);
             }
-            minr++;
+            top++;
 
-            // 2. Top to bottom (right column)
-            for (int i = minr; i <= maxr; i++) {
-                ans.add(matrix[i][maxc]);
+            // Top → Bottom
+            for (int i = top; i <= bottom; i++) {
+                ans.add(matrix[i][right]);
             }
-            maxc--;
+            right--;
 
-            // 3. Right to left (bottom row)
-            if (minr <= maxr) {
-                for (int j = maxc; j >= minc; j--) {
-                    ans.add(matrix[maxr][j]);
+            // Right → Left
+            if (top <= bottom) {
+                for (int j = right; j >= left; j--) {
+                    ans.add(matrix[bottom][j]);
                 }
-                maxr--;
+                bottom--;
             }
 
-            // 4. Bottom to top (left column)
-            if (minc <= maxc) {
-                for (int i = maxr; i >= minr; i--) {
-                    ans.add(matrix[i][minc]);
+            // Bottom → Top
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    ans.add(matrix[i][left]);
                 }
-                minc++;
+                left++;
             }
         }
 
