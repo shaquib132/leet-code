@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohdshaquibansari/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mohdshaquibansari/leet-code/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdshaquibansari/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/mohdshaquibansari/leet-code/tree/master/0486-predict-the-winner) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shaquib132/leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/shaquib132/leet-code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/mohdshaquibansari/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
@@ -436,12 +438,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
