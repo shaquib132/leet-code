@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shaquib132/leet-code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/mohdshaquibansari/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/shaquib132/leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdshaquibansari/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shaquib132/leet-code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mohdshaquibansari/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mohdshaquibansari/leet-code/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/shaquib132/leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdshaquibansari/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/mohdshaquibansari/leet-code/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
