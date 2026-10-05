@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shaquib132/leet-code/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/shaquib132/leet-code/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohdshaquibansari/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mohdshaquibansari/leet-code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shaquib132/leet-code/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shaquib132/leet-code/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shaquib132/leet-code/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
