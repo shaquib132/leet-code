@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/mohdshaquibansari/leet-code/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shaquib132/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/mohdshaquibansari/leet-code/tree/master/0463-island-perimeter) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shaquib132/leet-code/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/shaquib132/leet-code/tree/master/0856-score-of-parentheses) |
@@ -374,12 +376,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/mohdshaquibansari/leet-code/tree/master/0463-island-perimeter) |
 | [0814-binary-tree-pruning](https://github.com/mohdshaquibansari/leet-code/tree/master/0814-binary-tree-pruning) |
 | [3310-remove-methods-from-project](https://github.com/mohdshaquibansari/leet-code/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/mohdshaquibansari/leet-code/tree/master/0463-island-perimeter) |
 | [3310-remove-methods-from-project](https://github.com/mohdshaquibansari/leet-code/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/mohdshaquibansari/leet-code/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
@@ -518,4 +523,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shaquib132/leet-code/tree/master/0075-sort-colors) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
