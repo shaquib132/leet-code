@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shaquib132/leet-code/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdshaquibansari/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/shaquib132/leet-code/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/shaquib132/leet-code/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/shaquib132/leet-code/tree/master/0204-count-primes) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/mohdshaquibansari/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/shaquib132/leet-code/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mohdshaquibansari/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0268-missing-number) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/shaquib132/leet-code/tree/master/0164-maximum-gap) |
 | [0287-find-the-duplicate-number](https://github.com/shaquib132/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -551,4 +554,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shaquib132/leet-code/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/shaquib132/leet-code/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
