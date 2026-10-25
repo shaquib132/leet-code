@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shaquib132/leet-code/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/shaquib132/leet-code/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/mohdshaquibansari/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shaquib132/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shaquib132/leet-code/tree/master/0922-sort-array-by-parity-ii) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/shaquib132/leet-code/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/shaquib132/leet-code/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/shaquib132/leet-code/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/shaquib132/leet-code/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
