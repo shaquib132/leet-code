@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shaquib132/leet-code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/shaquib132/leet-code/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shaquib132/leet-code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/shaquib132/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shaquib132/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1331-rank-transform-of-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/shaquib132/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0414-third-maximum-number) |
+| [0451-sort-characters-by-frequency](https://github.com/shaquib132/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdshaquibansari/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/shaquib132/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/shaquib132/leet-code/tree/master/0912-sort-an-array) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/shaquib132/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/mohdshaquibansari/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shaquib132/leet-code/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/shaquib132/leet-code/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/shaquib132/leet-code/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/shaquib132/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/shaquib132/leet-code/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
@@ -440,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shaquib132/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shaquib132/leet-code/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaquib132/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shaquib132/leet-code/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/shaquib132/leet-code/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/shaquib132/leet-code/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
