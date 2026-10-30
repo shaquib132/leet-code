@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/shaquib132/leet-code/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/shaquib132/leet-code/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/mohdshaquibansari/leet-code/tree/master/0197-rising-temperature) |
+| [3436-find-valid-emails](https://github.com/shaquib132/leet-code/tree/master/3436-find-valid-emails) |
 ## Trie
 |  |
 | ------- |
