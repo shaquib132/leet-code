@@ -634,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/shaquib132/leet-code/tree/master/1114-print-in-order) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shaquib132/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
