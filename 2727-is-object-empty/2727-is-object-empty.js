@@ -3,8 +3,8 @@
  * @return {boolean}
  */
 var isEmpty = function(obj) {
-    for (const _ in obj) {
-        return false;
+    if (Array.isArray(obj)) {
+        return obj.length === 0;
     }
-    return true;
+    return Object.keys(obj).length === 0;
 };
