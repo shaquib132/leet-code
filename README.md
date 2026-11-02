@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/shaquib132/leet-code/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/mohdshaquibansari/leet-code/tree/master/0197-rising-temperature) |
 | [1075-project-employees-i](https://github.com/shaquib132/leet-code/tree/master/1075-project-employees-i) |
+| [1517-find-users-with-valid-e-mails](https://github.com/shaquib132/leet-code/tree/master/1517-find-users-with-valid-e-mails) |
 | [3436-find-valid-emails](https://github.com/shaquib132/leet-code/tree/master/3436-find-valid-emails) |
 ## Trie
 |  |
