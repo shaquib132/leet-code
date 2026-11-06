@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaquib132/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaquib132/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaquib132/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shaquib132/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohdshaquibansari/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shaquib132/leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaquib132/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaquib132/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shaquib132/leet-code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaquib132/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaquib132/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/shaquib132/leet-code/tree/master/1480-running-sum-of-1d-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3903-smallest-stable-index-i](https://github.com/shaquib132/leet-code/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaquib132/leet-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shaquib132/leet-code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaquib132/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdshaquibansari/leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
