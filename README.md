@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/shaquib132/leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaquib132/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shaquib132/leet-code/tree/master/1021-remove-outermost-parentheses) |
+| [1417-reformat-the-string](https://github.com/shaquib132/leet-code/tree/master/1417-reformat-the-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shaquib132/leet-code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shaquib132/leet-code/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohdshaquibansari/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
