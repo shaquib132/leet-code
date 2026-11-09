@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mohdshaquibansari/leet-code/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shaquib132/leet-code/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shaquib132/leet-code/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaquib132/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/mohdshaquibansari/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mohdshaquibansari/leet-code/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/shaquib132/leet-code/tree/master/0205-isomorphic-strings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shaquib132/leet-code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mohdshaquibansari/leet-code/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaquib132/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/shaquib132/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/shaquib132/leet-code/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0189-rotate-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/mohdshaquibansari/leet-code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mohdshaquibansari/leet-code/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/shaquib132/leet-code/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/shaquib132/leet-code/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shaquib132/leet-code/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shaquib132/leet-code/tree/master/0205-isomorphic-strings) |
