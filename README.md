@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/mohdshaquibansari/leet-code/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/shaquib132/leet-code/tree/master/2409-count-days-spent-together) |
+| [2485-find-the-pivot-integer](https://github.com/shaquib132/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/mohdshaquibansari/leet-code/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/shaquib132/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2485-find-the-pivot-integer](https://github.com/shaquib132/leet-code/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/shaquib132/leet-code/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/shaquib132/leet-code/tree/master/3903-smallest-stable-index-i) |
 ## String
