@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shaquib132/leet-code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/shaquib132/leet-code/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/shaquib132/leet-code/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaquib132/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/shaquib132/leet-code/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shaquib132/leet-code/tree/master/0867-transpose-matrix) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shaquib132/leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shaquib132/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/mohdshaquibansari/leet-code/tree/master/0463-island-perimeter) |
+| [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/shaquib132/leet-code/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shaquib132/leet-code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/mohdshaquibansari/leet-code/tree/master/1260-shift-2d-grid) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shaquib132/leet-code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shaquib132/leet-code/tree/master/0443-string-compression) |
+| [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/mohdshaquibansari/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shaquib132/leet-code/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/shaquib132/leet-code/tree/master/0922-sort-array-by-parity-ii) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/shaquib132/leet-code/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/shaquib132/leet-code/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/shaquib132/leet-code/tree/master/0476-number-complement) |
+| [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/shaquib132/leet-code/tree/master/0861-score-after-flipping-matrix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mohdshaquibansari/leet-code/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/shaquib132/leet-code/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/mohdshaquibansari/leet-code/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/shaquib132/leet-code/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/mohdshaquibansari/leet-code/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/shaquib132/leet-code/tree/master/1920-build-array-from-permutation) |
