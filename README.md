@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/shaquib132/leet-code/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdshaquibansari/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shaquib132/leet-code/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0697-degree-of-an-array](https://github.com/shaquib132/leet-code/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/shaquib132/leet-code/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/shaquib132/leet-code/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shaquib132/leet-code/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/shaquib132/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/shaquib132/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/shaquib132/leet-code/tree/master/0697-degree-of-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/shaquib132/leet-code/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/shaquib132/leet-code/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1331-rank-transform-of-an-array) |
