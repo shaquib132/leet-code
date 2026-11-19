@@ -1,0 +1,12 @@
+class Solution {
+    public int minimizeSum(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+
+        int dropTwoSmallest = nums[n - 1] - nums[2];
+        int dropTwoLargest  = nums[n - 3] - nums[0];
+        int dropOneEach     = nums[n - 2] - nums[1];
+
+        return Math.min(dropOneEach, Math.min(dropTwoSmallest, dropTwoLargest));
+    }
+}
