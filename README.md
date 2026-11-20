@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3886-sum-of-sortable-integers](https://github.com/shaquib132/leet-code/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shaquib132/leet-code/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shaquib132/leet-code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/shaquib132/leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/shaquib132/leet-code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3477-fruits-into-baskets-ii](https://github.com/shaquib132/leet-code/tree/master/3477-fruits-into-baskets-ii) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/shaquib132/leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/mohdshaquibansari/leet-code/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/shaquib132/leet-code/tree/master/3886-sum-of-sortable-integers) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/shaquib132/leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/mohdshaquibansari/leet-code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/shaquib132/leet-code/tree/master/3886-sum-of-sortable-integers) |
+| [4056-number-of-intersecting-interval-pairs-i](https://github.com/shaquib132/leet-code/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
