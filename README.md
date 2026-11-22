@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shaquib132/leet-code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shaquib132/leet-code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/shaquib132/leet-code/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shaquib132/leet-code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/mohdshaquibansari/leet-code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/shaquib132/leet-code/tree/master/3477-fruits-into-baskets-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shaquib132/leet-code/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mohdshaquibansari/leet-code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/shaquib132/leet-code/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/mohdshaquibansari/leet-code/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/mohdshaquibansari/leet-code/tree/master/3731-find-missing-elements) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mohdshaquibansari/leet-code/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shaquib132/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/shaquib132/leet-code/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/mohdshaquibansari/leet-code/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mohdshaquibansari/leet-code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/mohdshaquibansari/leet-code/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/mohdshaquibansari/leet-code/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shaquib132/leet-code/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/shaquib132/leet-code/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/mohdshaquibansari/leet-code/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/3514-number-of-unique-xor-triplets-ii) |
