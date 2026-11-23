@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mohdshaquibansari/leet-code/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shaquib132/leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaquib132/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mohdshaquibansari/leet-code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shaquib132/leet-code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/mohdshaquibansari/leet-code/tree/master/1406-stone-game-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/mohdshaquibansari/leet-code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/shaquib132/leet-code/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaquib132/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/mohdshaquibansari/leet-code/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shaquib132/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/mohdshaquibansari/leet-code/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaquib132/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/shaquib132/leet-code/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaquib132/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/shaquib132/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shaquib132/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/shaquib132/leet-code/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mohdshaquibansari/leet-code/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaquib132/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -779,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shaquib132/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/shaquib132/leet-code/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
