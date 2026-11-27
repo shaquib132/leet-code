@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/shaquib132/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/shaquib132/leet-code/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/shaquib132/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/shaquib132/leet-code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdshaquibansari/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/shaquib132/leet-code/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/shaquib132/leet-code/tree/master/0697-degree-of-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mohdshaquibansari/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0400-nth-digit](https://github.com/shaquib132/leet-code/tree/master/0400-nth-digit) |
+| [0611-valid-triangle-number](https://github.com/shaquib132/leet-code/tree/master/0611-valid-triangle-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shaquib132/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mohdshaquibansari/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shaquib132/leet-code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shaquib132/leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/shaquib132/leet-code/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/shaquib132/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/shaquib132/leet-code/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mohdshaquibansari/leet-code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/shaquib132/leet-code/tree/master/0720-longest-word-in-dictionary) |
 | [0905-sort-array-by-parity](https://github.com/shaquib132/leet-code/tree/master/0905-sort-array-by-parity) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mohdshaquibansari/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/shaquib132/leet-code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/shaquib132/leet-code/tree/master/0443-string-compression) |
+| [0611-valid-triangle-number](https://github.com/shaquib132/leet-code/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/shaquib132/leet-code/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/mohdshaquibansari/leet-code/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/shaquib132/leet-code/tree/master/0905-sort-array-by-parity) |
@@ -592,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/shaquib132/leet-code/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/shaquib132/leet-code/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/shaquib132/leet-code/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/shaquib132/leet-code/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/shaquib132/leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0861-score-after-flipping-matrix](https://github.com/shaquib132/leet-code/tree/master/0861-score-after-flipping-matrix) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaquib132/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
