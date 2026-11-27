@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shaquib132/leet-code/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/shaquib132/leet-code/tree/master/0720-longest-word-in-dictionary) |
 | [0771-jewels-and-stones](https://github.com/shaquib132/leet-code/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/shaquib132/leet-code/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/shaquib132/leet-code/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shaquib132/leet-code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/shaquib132/leet-code/tree/master/1021-remove-outermost-parentheses) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mohdshaquibansari/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/shaquib132/leet-code/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
