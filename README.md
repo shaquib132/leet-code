@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/shaquib132/leet-code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shaquib132/leet-code/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shaquib132/leet-code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1652-defuse-the-bomb](https://github.com/shaquib132/leet-code/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/mohdshaquibansari/leet-code/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/mohdshaquibansari/leet-code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shaquib132/leet-code/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mohdshaquibansari/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shaquib132/leet-code/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/shaquib132/leet-code/tree/master/0594-longest-harmonious-subsequence) |
+| [1652-defuse-the-bomb](https://github.com/shaquib132/leet-code/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mohdshaquibansari/leet-code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shaquib132/leet-code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shaquib132/leet-code/tree/master/3411-maximum-subarray-with-equal-products) |
